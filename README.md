@@ -1,5 +1,15 @@
 # 🧮 Advanced Scientific Calculator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+![Python Version](https://img.shields.io/badge/Python-3.10%2B-blue)
+[![GitHub stars](https://img.shields.io/github/stars/ronaksharma2908/Scientific-Calculator?style=social)](https://github.com/ronaksharma2908/Scientific-Calculator/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/ronaksharma2908/Scientific-Calculator?style=social)](https://github.com/ronaksharma2908/Scientific-Calculator/network/members)
+![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python&logoColor=white)
+[![Python CI](https://github.com/ronaksharma2908/Scientific-Calculator/actions/workflows/python-app.yml/badge.svg)](https://github.com/ronaksharma2908/Scientific-Calculator/actions/workflows/python-app.yml)
+
+
+# 🧮 Advanced Scientific Calculator
+
 A full‑featured scientific calculator built with **Python (Tkinter)**.  
 It supports basic arithmetic, advanced math functions, memory operations, history tracking, and a modern UI with dark/light theme toggle.
 
