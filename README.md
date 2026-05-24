@@ -8,8 +8,6 @@
 [![Python CI](https://github.com/ronaksharma2908/Scientific-Calculator/actions/workflows/python-app.yml/badge.svg)](https://github.com/ronaksharma2908/Scientific-Calculator/actions/workflows/python-app.yml)
 
 
-# 🧮 Advanced Scientific Calculator
-
 A full‑featured scientific calculator built with **Python (Tkinter)**.  
 It supports basic arithmetic, advanced math functions, memory operations, history tracking, and a modern UI with dark/light theme toggle.
 
