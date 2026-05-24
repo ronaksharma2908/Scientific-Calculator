@@ -29,12 +29,48 @@ It supports basic arithmetic, advanced math functions, memory operations, histor
 ---
 
 ## 📸 Screenshots
-(Add screenshots here once you run the app and take them!)
+
 
 ---
 
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/scientific-calculator.git
+   git clone https://github.com/ronaksharma2908/scientific-calculator.git
    cd scientific-calculator
+
+   Scientific-Calculator/
+   
+📂 Project Structure
+
+├── scientific_calculator_ui.py   # Main application
+├── test_calculator.py            # Unit tests
+├── requirements.txt              # Dependencies
+├── LICENSE                       # MIT License
+└── README.md                     # Project documentation
+
+📦 Requirements
+Python 3.10+
+
+Tkinter (comes pre‑installed with Python)
+
+✨ Future Improvements
+
+Add graph plotting
+
+Add unit conversions
+
+Add matrix operations
+
+Improve test coverage
+
+👨‍💻 Author
+Ronak Sharma  
+Built for learning, hackathons, and fun 🚀
+
+📜 License
+This project is licensed under the MIT License.
+
+
+
+
