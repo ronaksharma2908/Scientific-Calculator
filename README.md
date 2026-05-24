@@ -11,7 +11,16 @@
 A full‑featured scientific calculator built with **Python (Tkinter)**.  
 It supports basic arithmetic, advanced math functions, memory operations, history tracking, and a modern UI with dark/light theme toggle.
 
----
+---## 📑 Table of Contents
+- [Features](#-features)
+- [Screenshots](#-screenshots)
+- [Installation & Usage](#-installation&usage)
+- [Project Structure](#-project-structure)
+- [Requirements](#-requirements)
+- [Future Improvements](#-future-improvements)
+- [Author](#-author)
+- [License](#-license)
+
 
 ## 🚀 Features
 - **Basic Operations**: `+`, `-`, `*`, `/`, `^`
@@ -28,18 +37,30 @@ It supports basic arithmetic, advanced math functions, memory operations, histor
 
 ## 📸 Screenshots
 
+![Calculator UI]("C:\Users\Dell\Downloads\Scientific_calculator1.jpeg")
+                ("C:\Users\Dell\Downloads\Scientific_calculator2.jpeg")
+                
 
 ---
+
 
 ## 🛠️ Installation & Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ronaksharma2908/scientific-calculator.git
-   cd scientific-calculator
+   git clone https://github.com/ronaksharma2908/Scientific-Calculator.git
+   cd Scientific-Calculator
 
-   Scientific-Calculator/
+2. Install dependencies
+   pip install -r requirements.txt
    
-📂 Project Structure
+4. Run the calculator:
+   python calculator.py
+
+
+---
+
+   
+📂 Project-Structure
 
 ├── scientific_calculator_ui.py   # Main application
 ├── test_calculator.py            # Unit tests
@@ -52,7 +73,9 @@ Python 3.10+
 
 Tkinter (comes pre‑installed with Python)
 
-✨ Future Improvements
+
+
+✨ Future-Improvements
 
 Add graph plotting
 
@@ -62,12 +85,30 @@ Add matrix operations
 
 Improve test coverage
 
+
+
 👨‍💻 Author
 Ronak Sharma  
 Built for learning, hackathons, and fun 🚀
 
-📜 License
-This project is licensed under the MIT License.
+
+
+## 🤝 Contributing
+Contributions are welcome!  
+1. Fork the repo  
+2. Create a new branch (`git checkout -b feature-name`)  
+3. Commit changes (`git commit -m "Add new feature"`)  
+4. Push to branch (`git push origin feature-name`)  
+5. Open a Pull Request
+
+
+
+## 📜 License
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
+
+
+
+
 
 
 
