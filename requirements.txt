@@ -1,0 +1,4 @@
+# Requirements for Advanced Scientific Calculator
+# Tkinter is included with Python, so no extra install needed.
+# Just ensure you're running Python 3.10+
+
