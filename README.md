@@ -29,13 +29,6 @@ It supports basic arithmetic, advanced math functions, memory operations, histor
 - **Clipboard Support**: Copy results instantly
 - **Theme Toggle**: Switch between Dark and Light mode
 - **Modern UI/UX**: Clean layout, colored buttons, responsive design
-
----
-
-## 📸 Screenshots
-
-![Calculator UI]("C:\Users\Dell\Downloads\Scientific_calculator1.jpeg")
-                ("C:\Users\Dell\Downloads\Scientific_calculator2.jpeg"
                 
 
 ---
@@ -91,7 +84,7 @@ Improve test coverage
 
 👨‍💻 Author
 
-Ronak Sharma  
+**Ronak Sharma**  
 Built for learning, hackathons, and fun 🚀
 
 
