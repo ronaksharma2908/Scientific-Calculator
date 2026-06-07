@@ -14,7 +14,6 @@ It supports basic arithmetic, advanced math functions, memory operations, histor
 ---## 📑 Table of Contents
 - [Features](#-features)
 - [Installation & Usage](#-installation&usage)
-- [Project Structure](#-project-structure)
 - [Future Improvements](#-future-improvements)
 - [Author](#-author)
 - [License](#-license)
@@ -66,14 +65,19 @@ It supports basic arithmetic, advanced math functions, memory operations, histor
 ├── LICENSE                       # MIT License
 └── README.md                     # Project documentation
 
+
+
 📦 Requirements
+
 Python 3.10+
 
 Tkinter (comes pre‑installed with Python)
 
 
 
+
 ✨ Future-Improvements
+
 
 Add graph plotting
 
@@ -86,12 +90,14 @@ Improve test coverage
 
 
 👨‍💻 Author
+
 Ronak Sharma  
 Built for learning, hackathons, and fun 🚀
 
 
 
 ## 🤝 Contributing
+
 Contributions are welcome!  
 1. Fork the repo  
 2. Create a new branch (`git checkout -b feature-name`)  
