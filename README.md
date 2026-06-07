@@ -13,10 +13,8 @@ It supports basic arithmetic, advanced math functions, memory operations, histor
 
 ---## 📑 Table of Contents
 - [Features](#-features)
-- [Screenshots](#-screenshots)
 - [Installation & Usage](#-installation&usage)
 - [Project Structure](#-project-structure)
-- [Requirements](#-requirements)
 - [Future Improvements](#-future-improvements)
 - [Author](#-author)
 - [License](#-license)
