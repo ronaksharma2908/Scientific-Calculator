@@ -35,7 +35,7 @@ It supports basic arithmetic, advanced math functions, memory operations, histor
 ## 📸 Screenshots
 
 ![Calculator UI]("C:\Users\Dell\Downloads\Scientific_calculator1.jpeg")
-                ("C:\Users\Dell\Downloads\Scientific_calculator2.jpeg")
+                ("C:\Users\Dell\Downloads\Scientific_calculator2.jpeg"
                 
 
 ---
